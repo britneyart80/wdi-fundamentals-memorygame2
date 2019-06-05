@@ -85,3 +85,9 @@ img {
 	margin: 0 8px;
 	margin-top: 40px;
 }
+button {
+	margin-bottom: 40px;
+	padding: 10px;
+	background-color: #F15B31;
+	color: #FFFFFF;
+}
